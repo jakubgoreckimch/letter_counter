@@ -1,2 +1,2 @@
 # letter_counter
-Program is able to count every letter in your text.txt
+program is able to count every letter in your text.txt
